@@ -1,5 +1,5 @@
  
- // write a code in java to print negative of array element
+ // write a code in java to print negative elements of array element
  import java.util.Scanner;
  class NegativeArrayElementPrint {
     public static void  main(String args[])
